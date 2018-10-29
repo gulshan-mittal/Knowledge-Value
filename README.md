@@ -24,6 +24,3 @@
 
 ![Demo-2](images/KV2.png)
 
-## YouTube video
-
-[Demo](https://youtu.be/kVTM1EDWgec)
